@@ -21,6 +21,7 @@
 title: "Frydafly Labs"
 email: fryda@frydaflylabs.com
 description: "Frydafly Labs helps progressive organizations & campaigns with data analysis, strategy, and organizing." 
+markdown: GFM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 
