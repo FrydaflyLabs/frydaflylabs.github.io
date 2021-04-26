@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Our Mission"
 date:   2021-04-21 12:44:03 -0400
 categories: jekyll update
 ---
